@@ -1,0 +1,64 @@
+{
+  "ryby": [
+    {
+      "id": 1,
+      "jmeno": "Neonka",
+      "druh": "Obecná",
+      "level": "mala"
+    },
+    {
+      "id": 2,
+      "jmeno": "Gupka",
+      "druh": "Duhová",
+      "level": "mala"
+    },
+    {
+      "id": 3,
+      "jmeno": "Mečovka",
+      "druh": "Zelená",
+      "level": "mala"
+    },
+    {
+      "id": 4,
+      "jmeno": "Skalára",
+      "druh": "Amazonka",
+      "level": "velka"
+    },
+    {
+      "id": 5,
+      "jmeno": "Terčovec",
+      "druh": "Modrý",
+      "level": "velka"
+    },
+    {
+      "id": 6,
+      "jmeno": "Betta",
+      "druh": "Bojovnice",
+      "level": "mala"
+    },
+    {
+      "id": 7,
+      "jmeno": "Tetra",
+      "druh": "Červená",
+      "level": "mala"
+    },
+    {
+      "id": 8,
+      "jmeno": "Oscar",
+      "druh": "Velký",
+      "level": "velka"
+    },
+    {
+      "id": 9,
+      "jmeno": "Paví",
+      "druh": "Očko",
+      "level": "mala"
+    },
+    {
+      "id": 10,
+      "jmeno": "Cichlida",
+      "druh": "Papouščí",
+      "level": "velka"
+    }
+  ]
+}
